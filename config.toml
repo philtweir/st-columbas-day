@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "philtweir.github.io/st-columbas-day/"
 languageCode = "en-gb"
 title = "St Columba's Day, Belfast"
 theme = "massively"
+publishDir = "docs"
 
 [params.posts]
     foldername = "post"
