@@ -1,10 +1,12 @@
 +++
-title = 'Odio magna sed consectetur'
+title = 'Event plan'
 slug = 'post4'
 image = 'images/pic06.jpg'
 date = "2017-04-11T00:00:00"
-description = 'Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.'
+description = 'June 10 in Farset Labs, Belfast'
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc. Proin eget mollis felis. Donec fermentum lectus non metus elementum, dignissim ornare felis congue. In rhoncus vehicula nibh, ac imperdiet dolor tincidunt sit amet.
+On Sunday June 10, the day following St Columba's Day, this event will run in Farset Labs in Belfast.
 
-Nullam commodo, diam nec finibus ultrices, odio enim tempus risus, quis dapibus ex ligula non erat. In sed lectus id massa fermentum euismod fringilla vel ligula. Quisque tincidunt tortor non ante scelerisque convallis ut vitae nunc. Mauris id consectetur sapien, et vulputate turpis. Nulla et diam urna. Duis varius, metus sit amet mollis gravida, felis turpis sodales nulla, id dapibus lacus est ac felis. Cras porttitor orci sit amet lorem scelerisque laoreet. Sed non mi et velit bibendum efficitur ut et mauris. Curabitur sem nisl, condimentum suscipit magna sit amet, vehicula ultricies purus. Phasellus blandit ultrices ante, eget blandit turpis fringilla et. Nam commodo volutpat semper.
+All are welcome - as described in the FAQ, it is an event celebrating artistic works and performance shared with the world by their creators. Original content, third-party openly licensed content, workshops and interviews welcome!
+
+Please get in touch in advance if you would like some time or floor space, so we can plan the schedule for the day.
