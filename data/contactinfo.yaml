@@ -1,0 +1,9 @@
+contactformaction: 'post-action'
+
+address:
+- line: 'c/o Farset Labs'
+- line: 'Weavers Court, Belfast, NI'
+
+phone: '(on request)'
+
+email: 'info@flaxandteal.co.uk'

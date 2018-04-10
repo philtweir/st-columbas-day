@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-gb"
+title = "St Columba's Day, Belfast"
+theme = "massively"
+
+[params.posts]
+    foldername = "post"
+    pagesize = "1"
+    featuredpost = "false"
+
+[params.settings]
+    googleanalytics = "UA-113904582-4"
+    disqus = "hugo-massively"
