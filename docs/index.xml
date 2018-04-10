@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>St Columba&#39;s Day, Belfast</title>
+    <link>philtweir.github.io/st-columbas-day/</link>
+    <description>Recent content on St Columba&#39;s Day, Belfast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="philtweir.github.io/st-columbas-day/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>philtweir.github.io/st-columbas-day/faq/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>philtweir.github.io/st-columbas-day/faq/</guid>
+      <description>What is St Columba&amp;rsquo;s Day, Belfast? It&amp;rsquo;s an event celebrating open culture, focused around artistic and other creative works with open licenses, to enable sharing and collaboration. We want people to be free to create, enjoy and share what they see and hear at the event.
+To achieve this, uniquely, we will ask all attendees to sign a waiver on entry that any copyright created or displayed during the event, not otherwise licensed under open license (see below), is released under the Creative Commons ShareAlike License 3.</description>
+    </item>
+    
+    <item>
+      <title>Odio magna sed consectetur</title>
+      <link>philtweir.github.io/st-columbas-day/post/post4/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>philtweir.github.io/st-columbas-day/post/post4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
+    </item>
+    
+  </channel>
+</rss>
