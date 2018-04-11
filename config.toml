@@ -1,6 +1,6 @@
 baseURL = "https://philtweir.github.io/st-columbas-day/"
 languageCode = "en-gb"
-title = "St Columba's Day, Belfast"
+title = "Columba's Day, Belfast"
 theme = "massively"
 publishDir = "docs"
 
