@@ -78,3 +78,7 @@ Along with sharing IP, being open to other views, perspectives and ways of life 
 ### Will content from the day go online?
 
 We are going to record (in various forms) as much as we can, in as good quality as we can. We want to credit people with the effort they put in publicly, as well as make the most of the  opportunities afforded by sharing.
+
+### What can be achieved with openly licensed work?
+
+As a crossover between open source and open content, the work of the Blender Foundation is great for engaging kids and adults: [Blender Open Projects](https://www.blender.org/about/projects/). Their most recent short is [Agent 327: Operation Barbershop](https://www.youtube.com/watch?v=mN0zPOpADL4).
