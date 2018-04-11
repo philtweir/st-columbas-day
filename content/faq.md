@@ -73,7 +73,7 @@ The block print was created within 300 years of Columba's death, and almost 600 
 
 St Columba is particularly appropriate - a patron saint of Ireland, of Scotland and of poetry, symbolised by the dove of peace. Irish-born, Columba was a native of Ulster, who brought his faith to the Dál Riata Scottish islands. Some years later, the legends of the Battle of Magh Rath have the pre-Christian King of Ulster and those Christians of Scottish Dál Riata making a dramatic last stand together, alongside an international band of soldiers and mercenaries. In the present day, Columba is often seen, across beliefs, as a symbol of commonality.
 
-Along with sharing IP, being open to other views, perspectives and ways of life is important to us, even if they do not match our own understandings. As such, we believe that using St Columba's Day as a focal point is about openness to all, including the many religious traditions that have celebrated St Columba, rather than side-stepping this natural choice through an exclusionist interpretation of secularism.
+Along with sharing IP, being open to other views, perspectives and ways of life is important to us, even if they do not match our own understandings. As such, we believe that using St Columba's Day as a focal point is about openness to all, including the many religious traditions that have celebrated St Columba, rather than side-stepping this natural choice through exclusionism.
 
 ### Will content from the day go online?
 
