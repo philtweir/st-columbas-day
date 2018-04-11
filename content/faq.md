@@ -4,7 +4,7 @@ slug = 'faq'
 date = "2017-04-11T00:00:00"
 description = 'What is this all about?'
 +++
-### What is St Columba's Day, Belfast?
+### What is Columba's Day, Belfast?
 
 It's an event celebrating open culture, focused around artistic and other creative works with open licenses, to enable sharing and collaboration. We want people to be free to create, enjoy and share what they see and hear at the event.
 
@@ -16,9 +16,9 @@ Naturally, no inappropriately invasive behaviour will be tolerated, any more tha
 
 Everything from copyright-expired works to Creative Commons Share-Alike licenses. For simplicity, we generally mean Creative Commons compatible licenses, _not including_ those with non-commercial or no derivatives clauses (see below).
 
-### What isn't St Columba's Day, Belfast?
+### What isn't Columba's Day, Belfast?
 
-This isn't a statement against copyright enforcement, or against rights in creative works. We aren't saying that all works should be openly licensed at all times, any more than all concerts should be open air at all times, or all private museums free at all times, say. But we do believe, for one event a year, creative minds can show the world that there is a value to creativity and collaboration beyond money and intellectual property - this is the message of St Columba's Day, Belfast.
+This isn't a statement against copyright enforcement, or against rights in creative works. We aren't saying that all works should be openly licensed at all times, any more than all concerts should be open air at all times, or all private museums free at all times, say. But we do believe, for one event a year, creative minds can show the world that there is a value to creativity and collaboration beyond money and intellectual property - this is the message of Columba's Day, Belfast.
 
 ### Why are non-commercial licenses not considered open?
 
@@ -28,7 +28,7 @@ For us, it is the idea that open licensing is defined by the decision of the cre
 
 ### But then, won't people exploit my work?
 
-Check out *What isn't St Columba's Day, Belfast* above - for us, exploitation is the abuse of a creator's rights. This event is about freely given participation, with no ambiguity - if you have something precious that you are willing to share with the world, without wanting to hold back, we want to celebrate that, big or small. At the same time, we recognise that many of us depend on rights protection for our livings - this isn't exhaustive, just share the love of something you love if you can!
+Check out *What isn't Columba's Day, Belfast* above - for us, exploitation is the abuse of a creator's rights. This event is about freely given participation, with no ambiguity - if you have something precious that you are willing to share with the world, without wanting to hold back, we want to celebrate that, big or small. At the same time, we recognise that many of us depend on rights protection for our livings - this isn't exhaustive, just share the love of something you love if you can!
 
 ### So is this like freemium?
 
