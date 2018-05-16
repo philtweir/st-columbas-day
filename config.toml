@@ -1,4 +1,4 @@
-baseURL = "https://philtweir.github.io/st-columbas-day/"
+baseURL = "/"
 languageCode = "en-gb"
 title = "Columba's Day, Belfast"
 theme = "massively"
